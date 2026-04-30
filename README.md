@@ -1,5 +1,9 @@
 # Support Team Performance Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B)](https://support-metrics-dashboard-gwdhg8qipd7ftybpxstcgq.streamlit.app/)
+
+**🚀 Live App:** https://support-metrics-dashboard-gwdhg8qipd7ftybpxstcgq.streamlit.app/
+
 An interactive Streamlit dashboard for visualizing support team KPIs — cases handled, CSAT scores, resolution times, and escalations.
 
 ## Features
